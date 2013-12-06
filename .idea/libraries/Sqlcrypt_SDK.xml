@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Sqlcrypt_SDK">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Sqlcrypt_SDK/build/libs/Sqlcrypt_SDK.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
